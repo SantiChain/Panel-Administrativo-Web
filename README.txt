@@ -14,4 +14,4 @@ utilizando clases de Bootstrap.
 El proyecto fue desarrollado y estructurado en componentes independientes para facilitar su 
 mantenimiento y escalabilidad.
 
-HECHO POR: SANTIAGO ANDRES CHAIN SANTOS - 2200147
+HECHO POR: SANTIAGO CHAIN - 2200147
