@@ -1,0 +1,35 @@
+body {
+  background-color: #121212;
+  color: white;
+  font-family: 'Orbitron', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.card {
+  background-color: #1e1e1e;
+  border: none;
+}
+
+.table {
+  background-color: #1e1e1e;
+  color: white;
+}
+
+.table th,
+.table td {
+  border-color: #333;
+}
+
+.table-light {
+  background-color: #2c2c2c !important;
+  color: white !important;
+}
+
+h2, h3 {
+  color: #00d1ff;
+}
+
+.btn {
+  font-weight: 600;
+}
